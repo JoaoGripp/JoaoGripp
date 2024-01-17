@@ -7,13 +7,20 @@ Until on this year, I accept new challenge, move to London-UK.  So I decided, 
 
 Learning UIKit, SwiftUI, many patterns, Unit Testing, UI Testing, TDD, API Rest, Networking, JSON parsing, Core Data, CI, GitHub and many other things. So I am looking for opportunity to start this new path.
 
-Courses:
-iOS & Swift - The Complete iOS App Development Bootcamp (Udemy)
-100daysOfSwift (UIKit - Paul Hudson)
-Testing Swift (Paul Hudson)
-Stanford CS193p Developing Apps for iOS 2021
+Courses: 
+iOS & Swift - The Complete iOS App Development Bootcamp (Udemy), 
+100daysOfSwift (UIKit - Paul Hudson), 
+Testing Swift (Paul Hudson), 
+Stanford CS193p Developing Apps for iOS 2021,
 
-<img src="[https://your-image-url.type](https://github.com/JoaoGripp/JoaoGripp/assets/12664473/ad77f9d7-2743-4eba-889d-193d38568fec)https://github.com/JoaoGripp/JoaoGripp/assets/12664473/ad77f9d7-2743-4eba-889d-193d38568fec" width="100" height="100">
+
+Take Home Project - UIKit - Sean Allen Course
+<p float="left">
+  <img src="https://github.com/JoaoGripp/JoaoGripp/assets/12664473/1978ed94-a7f2-4ed0-919c-1148cfc2a310" width="20% hspace="50"" />
+  <img src="https://github.com/JoaoGripp/JoaoGripp/assets/12664473/8571a632-2725-43fc-a9cb-2fac2c6e0095" width="20% hspace="50"" />
+  <img src="https://github.com/JoaoGripp/JoaoGripp/assets/12664473/f9677214-8f6a-46d0-9053-1a751cb45c2a" width="20% hspace="50"" />
+  <img src="https://github.com/JoaoGripp/JoaoGripp/assets/12664473/642538b4-6470-45be-8e0f-511adf1686a3" width="20%" />
+</p>
 
 🌱 I’m currently learning more about TDD. Doing Essential Developer TDD series
 
