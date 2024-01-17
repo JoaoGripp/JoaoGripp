@@ -13,9 +13,14 @@ iOS & Swift - The Complete iOS App Development Bootcamp (Udemy)
 Testing Swift (Paul Hudson)
 Stanford CS193p Developing Apps for iOS 2021
 
+<img src="[https://your-image-url.type](https://github.com/JoaoGripp/JoaoGripp/assets/12664473/ad77f9d7-2743-4eba-889d-193d38568fec)https://github.com/JoaoGripp/JoaoGripp/assets/12664473/ad77f9d7-2743-4eba-889d-193d38568fec" width="100" height="100">
+
 🌱 I’m currently learning more about TDD. Doing Essential Developer TDD series
 
 <!---
 JoaoGripp/JoaoGripp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
